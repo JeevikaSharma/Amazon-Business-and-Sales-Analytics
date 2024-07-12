@@ -1,4 +1,4 @@
-# Amazon Sales Data Analysis
+# Amazon Business And Sales Analytics
 
 ## Project Overview
 
