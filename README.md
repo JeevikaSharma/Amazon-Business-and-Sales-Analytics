@@ -1,5 +1,7 @@
 # Amazon Business And Sales Analytics
-<img src="amazon-logo-1024x683.png"  width="600" height="380">
+
+<img src="amazon-logo-1024x683.png"  width="1000" height="280">
+
 ## Project Overview
 
 
