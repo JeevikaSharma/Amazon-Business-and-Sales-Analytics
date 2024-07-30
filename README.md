@@ -1,12 +1,11 @@
 # Amazon Business And Sales Analytics
-
+<img src="amazon-logo-1024x683.png"  width="600" height="380">
 ## Project Overview
-<img src="amazon-logo-1024x683.png"  width="100" height="100">
+
 
 This project involves a comprehensive analysis of an Amazon sales dataset, aiming to uncover insights into product performance, pricing strategies, customer ratings, and revenue generation. The analysis includes data cleaning, exploratory data analysis (EDA), statistical calculations, and visualizations to inform strategic decisions.
 
 ## Dataset
-![](amazon-logo-1024x683.png)
 
 [Click to download Dataset](https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset?select=Amazon-Products.csv)
 
